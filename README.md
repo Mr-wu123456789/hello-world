@@ -1,2 +1,4 @@
 # hello-world
-This is my first repository
+Hello guys!
+
+I'm a student who likes computer and science!
